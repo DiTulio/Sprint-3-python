@@ -1,5 +1,3 @@
-"""JOVI V70 - Modo Estudo (versão simplificada)"""
-
 APPS_BLOQUEADOS = ["Instagram", "TikTok"]
 APPS_LIBERADOS = ["Khan Academy", "Wikipedia"]
 
